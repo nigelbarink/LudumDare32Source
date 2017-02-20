@@ -1,0 +1,34 @@
+Ludum Dare 32 
+THEME : an uncoventional weapon / een ongebruikelijk wapen 
+Game Title: Food epidemic ;
+My Idea : a tower defence game where you are human mutants against the humans of the past 
+#NOTE: Main menu has to be on int 0
+
+Goals: 
+
+
+
+DONE:
+- Upgrade feedBack : Done
+- Wave's : Done
+- Durability : Done
+-tower defence game : Done 
+- 3D : Done
+- new weapons : Done
+- Name :  Done 
+- Story line : Done
+- Base capture Feedback : Done
+- New Enemy's (uncoventional weapon's [hamburger Rocket!@#$%^&*]) : done
+- Textures !!! :  done
+- UI toggle issue: Fixed
+- fix spawn rate : Fixed 
+- fix nullreference : Fixed 
+- fix canons don't get Damaged  : Fixed
+- Structure all scripts : Done 
+- win Condition : Done
+- audio Feedback Despawn : Done
+-Button reactivate after despawn defender :Done
+- introduction to the controls
+
+FIX :
+- Sound fix 
